@@ -16,7 +16,7 @@ age	job	marital	education	default	housing	loan	contact	month	day_of_week	duratio
 29	admin.	single	high.school	no	no	no	cellular	may	fri	553	2	999	0	nonexistent	-1.8	92.893	-46.2	1.313	5099.1	no
 27	services	single	university.degree	no	no	no	cellular	jul	wed	698	2	999	0	nonexistent	1.4	93.918	-42.7	4.963	5228.1	no
 44	admin.	divorced	university.degree	no	no	no	cellular	jul	wed	191	6	999	0	nonexistent	1.4	93.918	-42.7	4.957	5228.1	no
-46	admin.	divorced	university.degree	no	yes	no	telephone	jul	mon	59	4	999	0	nonexistent	1.4	93.918	-42.7 4.962	5228.1	no
+46	admin.	divorced	university.degree	no	yes	no	telephone	jul	mon	59	4	999	0	nonexistent	1.4	93.918	-42.7	4.962	5228.1	no
 45	entrepreneur	married	university.degree	unknown	yes	yes	cellular	aug	mon	38	2	999	0	nonexistent	1.4	93.444	-36.1		5228.1	no
 50	blue-collar	married	basic0.4y	no	no	yes	cellular	jul	tue	849	1	999	0	nonexistent	1.4	93.918	-42.7	4.961	5228.1	yes
 55	services	married	basic0.6y	unknown	yes	no	cellular	jul	tue	326	6	999	0	nonexistent	1.4	93.918	-42.7	4.962	5228.1	no
