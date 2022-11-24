@@ -26,6 +26,7 @@
 24,44,technician,married,professional.course,unknown,yes,no,telephone,may,fri,388.0,7.0,999,0,nonexistent,1.1,93.994,-36.4,4.864,5191.0,no
 25,38,technician,married,professional.course,no,yes,no,cellular,aug,mon,479.0,1.0,999,0,nonexistent  ,1.4,93.444,-36.1,4.965,5228.1,yes
 26,36,technician,divorced,professional.course,no,no,no,telephone,may,wed,446.0,1.0,999,0,nonexistent,1.1,93.994,-36.4,4.856,5191.0,no
+27,28,blue-collar,married,basic.6y,unknown,,no,cellular,may,mon,68.0,2.0,999,1,failure,-1.8,92.893,-46.2,1.299,5099.1,no
 28,47,admin,single,unknown,unknown,no,no,telephone,may,thu,127.0,1.0,999,0,nonexistent,1.1,93.994,-36.4,4.86,5191.0,no
 29,34,admin,married,university.degree,no,no,no,cellular,aug,tue,109.0,1.0,999,0,nonexistent,1.4,93.444,-36.1,4.963,5228.1,no
 30,38,technician,married,university.degree,no,yes,yes,cellular,mar,tue,113.0,1.0,999,1,failure,-1.8,92.843,-50.0,1.687,5099.1,no
@@ -138,6 +139,7 @@
 137,34,admin,married,university.degree,no,no,no,cellular,nov,mon,141.0,2.0,999,0,nonexistent,-1.1,94.767,-50.8,1.05,4963.6,no
 138,37,technician,divorced,professional.course,no,no,no,telephone,may,wed,374.0,1.0,999,0,nonexistent,0.08518338596065096,93.994,-36.4,4.856,5191.0,no
 139,53,blue-collar,divorced,basic.4y,no,no,no,telephone,jun,wed,706.0,1.0,999,0,nonexistent,1.4,94.465,-41.8,4.959,5228.1,yes
+140,54,technician,divorced,professional.course,no,,yes,cellular,jul,tue,797.0,14.0,999,0,nonexistent,1.4,93.918,-42.7,4.961,5228.1,no
 141,32,technician,divorced,professional.course,no,yes,no,cellular,nov,tue,250.0,1.0,999,0,nonexistent,-0.1,93.2,-42.0,4.153,5195.8,no
 142,42,admin,married,high.school,no,yes,no,cellular,jul,fri,311.0,6.0,999,0,nonexistent,1.4,93.918,-42.7,4.962,5228.1,no
 143,28,technician,single,professional.course,no,yes,no,cellular,aug,thu,63.0,2.0,3,1,success,-2.9,92.201,-40.50230750546515,0.851,5076.2,yes
@@ -1085,10 +1087,10 @@
 1085,27,blue-collar,married,basic.9y,no,unknown,unknown,telephone,may,tue,169.0,2.0,999,0,nonexistent,1.1,93.994,-36.4,4.856,5191.0,no
 1086,38,admin,single,university.degree,no,no,no,cellular,jun,tue,103.0,1.0,999,0,nonexistent,-2.9,92.963,-40.8,1.099,5076.2,no
 1087,41,services,married,high.school,unknown,yes,no,telephone,may,mon,679.0,2.0,999,0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,yes
-1088,39,self-employed,divorced,high.school,no,na,no,cellular,sep,tue,261.0,1.0,3,1,success,-3.4,92.379,-29.8,0.788,5017.5,yes
-1089,48,admin,divorced,high.school,no,no,na,telephone,jul,mon,352.0,2.0,999,0,nonexistent,1.4,93.918,-42.7,4.96,5228.1,no
-1090,32,blue-collar,married,basic.6y,no,yes,na,telephone,jun,fri,16.0,6.0,999,0,nonexistent,1.4,94.465,-41.8,4.959,5228.1,no
-1091,35,blue-collar,married,basic.6y,no,no,na,telephone,may,wed,39.0,1.0,999,0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,no
+1088,39,self-employed,divorced,high.school,no,yes,no,cellular,sep,tue,261.0,1.0,3,1,success,-3.4,92.379,-29.8,0.788,5017.5,yes
+1089,48,admin,divorced,high.school,no,no,no,telephone,jul,mon,352.0,2.0,999,0,nonexistent,1.4,93.918,-42.7,4.96,5228.1,no
+1090,32,blue-collar,married,basic.6y,no,yes,no,telephone,jun,fri,16.0,6.0,999,0,nonexistent,1.4,94.465,-41.8,4.959,5228.1,no
+1091,35,blue-collar,married,basic.6y,no,no,no,telephone,may,wed,39.0,1.0,999,0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,no
 1092,51,blue-collar,married,basic.9y,unknown,yes,no,cellular,aug,tue,107.0,1.0,999,0,nonexistent,1.4,93.444,-36.1,4.966,5228.1,no
 1093,35,admin,single,university.degree,no,yes,no,cellular,may,mon,8.0,5.0,999,0,nonexistent,-1.8,92.893,-46.2,1.299,5099.1,no
 1094,60,blue-collar,married,basic.4y,unknown,yes,no,cellular,apr,mon,18.0,4.0,999,0,nonexistent,-1.8,93.075,-47.1,1.405,5099.1,no
