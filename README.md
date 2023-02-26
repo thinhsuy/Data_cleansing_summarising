@@ -14,6 +14,7 @@ So in this segment we would tend to preprocess a dataset of a campaign research 
     product (bank term deposit) would be ('yes') or not ('no') subscribed. The original dataset 
     was created/donated to UCI repository by Moro et al. (2014) (https://archive.ics.uci.edu/
     ml/datasets/Bank+Marketing).
+    <img src="pics/dataReview"> 
   </li>
   <li>
     <h3>Data Exploration</h3>
