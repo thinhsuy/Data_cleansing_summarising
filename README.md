@@ -21,6 +21,8 @@ In which, the first work was dectect the distribution of 3 distinct types of dat
 The second work would be comparisions between 3 pairs of feature in order to figure out the relation and assiciation of each pair of dataset. 
 Finally, with 3 different features of dataset, we would group out the value of it and get out explanation for the reseaching.
 
+![group](https://user-images.githubusercontent.com/81562297/221419921-5baffe15-2dda-45e1-a3f6-8a857a409e34.png)
+
 ### Dealing With Missing Data
 For the dataset, the information maybe not too reasonable for running any learning process due to the insufficient values, which problem would be address from this process.
 Particularly, the missing data, as well as nan values would be replace by mutilple ways and one of which was replacing with the mean or median of numerical data.
