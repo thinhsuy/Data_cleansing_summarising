@@ -26,6 +26,8 @@ Finally, with 3 different features of dataset, we would group out the value of i
 ### Dealing With Missing Data
 For the dataset, the information maybe not too reasonable for running any learning process due to the insufficient values, which problem would be address from this process.
 Particularly, the missing data, as well as nan values would be replace by mutilple ways and one of which was replacing with the mean or median of numerical data.
- 
+
+![line](https://user-images.githubusercontent.com/81562297/221419971-6d0d76df-964e-485a-a853-c22bb509a367.png)
+
 ## Reference
 https://docs.oracle.com/cd/E40248_01/epm.1112/cb_statistical/frameset.htm?ch07s02s10s01.html
