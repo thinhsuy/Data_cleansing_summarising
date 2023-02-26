@@ -21,6 +21,7 @@ Ultimately, using the dataset's three separate properties, we would group its wo
 ### Dealing With Missing Data
 Due to the insufficient values in the dataset, the information may not be sufficiently reasonable to run any learning processes; however, this approach would address the issue.
 In particular, there are numerous techniques to replace missing data and nan values, one of which is to use the mean or median of the numerical data.
+
 ![line](https://user-images.githubusercontent.com/81562297/221419971-6d0d76df-964e-485a-a853-c22bb509a367.png)
 
 ## Reference
